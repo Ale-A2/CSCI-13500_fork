@@ -1,6 +1,21 @@
 # CSCI-13500
 CUNY Hunter College Summer 2026 official course repository. 
 
+## Questions
+Common issues you may face and a quick guide to resolution!
+### How do I safely get copies of updates on this repo into my local repo?
+In order to grab new assignment updates, you want to follow the steps steps. 
+
+1. Save all your changes in your local copy
+2. Get the new changes from the online repo
+
+Use the prompts below as a step-by-step guide on how to safely keep your changes and access new ones. 
+
+```
+git add .
+git commit -m "work in progress"
+git pull --rebase
+```
 
 ## C++ Learning Resources
 
