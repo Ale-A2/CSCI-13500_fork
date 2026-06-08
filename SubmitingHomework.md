@@ -52,3 +52,4 @@ Then repeat Steps 3–5 for each new assignment.
 # Getting Help
 If you get a merge conflict or something looks wrong, do not force push. Ask me before doing anything else.
 Make sure your GitHub account has your name in it so I can identify you.
+new text added at the end of the submit work md
