@@ -1,6 +1,10 @@
 # CSCI-13500
 CUNY Hunter College Summer 2026 official course repository. 
 
+## Leetcodes We Have Solved
+[1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)  
+[2133. Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/)
+
 ## Questions
 Common issues you may face and a quick guide to resolution! 
 
