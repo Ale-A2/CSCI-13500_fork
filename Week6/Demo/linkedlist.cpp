@@ -32,9 +32,13 @@ int main(){
     current_node = &head; 
     while (current_node){
         std::cout << current_node->name << " -> ";
-        current_node = current_node->next_nodes_address;
+        
+        
+        Node* next_node = current_node->next_nodes_address;
+        delete current_node;
+        current_node = nullptr;    // Prevent dangling pointers
+        current_node = next_node;
     }
-
 
 }
 
