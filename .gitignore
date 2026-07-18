@@ -5,6 +5,7 @@
 # Explicitly whitelist your source files so Git tracks them
 !*.cpp
 !*.h
+!*.hpp
 !*.md
 !*.txt
 !*.csv
