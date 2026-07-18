@@ -14,16 +14,13 @@ int main(){
     
     Player BotPlayer("Bot");
     Player HumanPlayer;
-    Player* ptr = BotPlayer;
+
 
     int move = PAPER;
 
     // std::cout << HumanPlayer.GetName() << std::endl;
     // std::cout << BotPlayer.GetName() << std::endl;
     std::cout << PAPER << std::endl;
-
-    delete BotPlayer
-    ptr = nullptr;
 
     
 
