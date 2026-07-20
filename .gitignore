@@ -9,7 +9,7 @@
 !*.md
 !*.txt
 !*.csv
-.gitignore
+
 HomeworkDir
 Week7/lecture#1.cpp
 Week7/modern_consoles_data.csv
